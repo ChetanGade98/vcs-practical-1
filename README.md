@@ -1,6 +1,45 @@
 # vcs-practical-1
 repositry 
 
+
+
+
+git checkout main        # Make sure you're on the main branch
+git pull origin main     # Get the latest changes from the remote main branch
+git checkout -b search-feature # Create and switch to the new branch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Stage all your changes
 git commit -m "Implement search feature" # Commit your changes
 git push origin search-feature # Push the new branch to the remote repository
