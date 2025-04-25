@@ -4,8 +4,8 @@ repositry
 
 
 
-git checkout main        # Make sure you're on the main branch
-git pull origin main     # Get the latest changes from the remote main branch
+git checkout main       
+git pull origin main 
 git checkout -b search-feature # Create and switch to the new branch
 
 
